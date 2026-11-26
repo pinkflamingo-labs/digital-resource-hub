@@ -1,0 +1,36 @@
+{
+ "name": "Curiouser and Curiouser",
+ "short_name": "Curiouser",
+ "description": "What's new in Microsoft AI, and what it means for Queensland public sector agencies. Built from public sources.",
+ "lang": "en-AU",
+ "dir": "ltr",
+ "start_url": "../",
+ "scope": "../",
+ "display": "standalone",
+ "background_color": "#fffaf3",
+ "theme_color": "#c9b6f2",
+ "categories": [
+  "news",
+  "education"
+ ],
+ "icons": [
+  {
+   "src": "ccapp-192.99a1ccdc90.png",
+   "sizes": "192x192",
+   "type": "image/png",
+   "purpose": "any"
+  },
+  {
+   "src": "ccapp-512.94b4e20e6a.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "any"
+  },
+  {
+   "src": "ccapp-mask-512.275118450d.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "maskable"
+  }
+ ]
+}
